@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kopi Nusantara</title>
+<style>
+  body{font-family:Arial,sans-serif;max-width:700px;margin:auto;padding:20px;background:#faf6f1;color:#333}
+  header{text-align:center;border-bottom:3px solid #6f4e37;margin-bottom:20px}
+  h1{color:#6f4e37}
+  article{background:#fff;padding:15px;margin-bottom:15px;border-radius:8px}
+  .label{background:#6f4e37;color:#fff;padding:2px 8px;border-radius:10px;font-size:12px}
+  img{max-width:100%;border-radius:8px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Kopi Nusantara</h1>
+  <p>Blog seputar kopi: tips, review, dan resep</p>
+</header>
+
+<article>
+  <span class="label">Tips</span>
+  <h2>Cara Seduh Kopi V60</h2>
+  <img src="kopi.jpg" alt="Kopi">
+  <p>Gunakan air 92-96°C, gilingan sedang, dan tuang air perlahan melingkar.</p>
+</article>
+
+<article>
+  <span class="label">Review</span>
+  <h2>Review Kopi Gayo</h2>
+  <p>Kopi Gayo punya rasa seimbang, sedikit coklat, dan asam yang lembut.</p>
+</article>
+
+<article>
+  <span class="label">Resep</span>
+  <h2>Resep Es Kopi Susu</h2>
+  <p>Campur espresso, susu, dan gula aren, lalu tambahkan es batu.</p>
+</article>
+
+<article>
+  <span class="label">Rekomendasi</span>
+  <h2>Alat Seduh untuk Pemula</h2>
+  <p>Mulai dari French press, V60, atau Aeropress. Harganya terjangkau dan mudah dipakai.</p>
+</article>
+
+<h3>Komentar</h3>
+<!-- Kode giscus dari Langkah 4 ditempel di sini -->
+</body>
+</html>
